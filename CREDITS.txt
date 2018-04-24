@@ -12,22 +12,17 @@ HTML5 Shiv :
 	License : The MIT License
 	License URL : https://github.com/aFarkas/html5shiv/blob/master/MIT%20and%20GPL2%20licenses.md
 
-
 Slick SLider :
 	Website URL : http://kenwheeler.github.io/slick/
 	License : The MIT License 
 	License URL : https://github.com/kenwheeler/slick/blob/master/LICENSE
-
 
 Font Awesome :
 	Website URL : http://fortawesome.github.io/Font-Awesome/
 	License : MIT 
 	License URL : http://fortawesome.github.io/Font-Awesome/license/
 
-
-
 Google Fonts : 
-
 	Open Sans Font:
 	Website URL : https://fonts.google.com/specimen/Open+Sans
 	License : Apache License, version 2.0
