@@ -18,11 +18,6 @@ Slick SLider :
 	License : The MIT License 
 	License URL : https://github.com/kenwheeler/slick/blob/master/LICENSE
 
-Ajax Contact Form :
-	Website URL : https://github.com/matt-west/ajax-contact-form
-	License : MIT 
-	License URL : https://github.com/matt-west/ajax-contact-form/blob/master/LICENSE.txt
-
 
 Font Awesome :
 	Website URL : http://fortawesome.github.io/Font-Awesome/
@@ -37,8 +32,3 @@ Google Fonts :
 	Website URL : https://fonts.google.com/specimen/Open+Sans
 	License : Apache License, version 2.0
 	License URL : http://www.apache.org/licenses/LICENSE-2.0.html
-
- 			
-	
-
-
